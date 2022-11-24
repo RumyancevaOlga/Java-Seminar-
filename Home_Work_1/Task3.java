@@ -41,8 +41,11 @@ public class Task3 {
             System.out.printf(("%.2f %s %.2f = %.0f"), first_number, operation, second_number, result);
         }
         else if (operation.equals("%")) {
-            result = first_number % second_number;
-            System.out.printf(("%.2f %s %.2f = %.2f"), first_number, operation, second_number, result);
+            int a, b;
+            a = (int)first_number;
+            b = (int)second_number;
+            result = a % b;
+            System.out.printf(("%.2f %s %.2f = %.0f"), first_number, operation, second_number, result);
         }
         else if (operation.equals("*")) {
             result = first_number * second_number;
