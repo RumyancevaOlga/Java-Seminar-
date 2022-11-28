@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-28T16:25:11.208884800Z</date>
+  <millis>1669652711208</millis>
+  <nanos>884800</nanos>
+  <sequence>0</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>+</message>
+</record>
+<record>
+  <date>2022-11-28T16:25:13.293963900Z</date>
+  <millis>1669652713293</millis>
+  <nanos>963900</nanos>
+  <sequence>1</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2.0</message>
+</record>
+<record>
+  <date>2022-11-28T16:25:14.060651100Z</date>
+  <millis>1669652714060</millis>
+  <nanos>651100</nanos>
+  <sequence>2</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3.0</message>
+</record>
+<record>
+  <date>2022-11-28T16:25:14.064640400Z</date>
+  <millis>1669652714064</millis>
+  <nanos>640400</nanos>
+  <sequence>3</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2.0+3.0=5.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-28T16:26:15.088733900Z</date>
+  <millis>1669652775088</millis>
+  <nanos>733900</nanos>
+  <sequence>0</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>*</message>
+</record>
+<record>
+  <date>2022-11-28T16:26:17.876810800Z</date>
+  <millis>1669652777876</millis>
+  <nanos>810800</nanos>
+  <sequence>1</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2.5</message>
+</record>
+<record>
+  <date>2022-11-28T16:26:19.650901900Z</date>
+  <millis>1669652779650</millis>
+  <nanos>901900</nanos>
+  <sequence>2</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2.0</message>
+</record>
+<record>
+  <date>2022-11-28T16:26:19.653893600Z</date>
+  <millis>1669652779653</millis>
+  <nanos>893600</nanos>
+  <sequence>3</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2.5*2.0=5.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-28T16:28:37.753892400Z</date>
+  <millis>1669652917753</millis>
+  <nanos>892400</nanos>
+  <sequence>0</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>%</message>
+</record>
+<record>
+  <date>2022-11-28T16:28:40.375625400Z</date>
+  <millis>1669652920375</millis>
+  <nanos>625400</nanos>
+  <sequence>1</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6.0</message>
+</record>
+<record>
+  <date>2022-11-28T16:28:41.230688Z</date>
+  <millis>1669652921230</millis>
+  <nanos>688000</nanos>
+  <sequence>2</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4.0</message>
+</record>
+<record>
+  <date>2022-11-28T16:28:41.234677200Z</date>
+  <millis>1669652921234</millis>
+  <nanos>677200</nanos>
+  <sequence>3</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6.0%4.0=2.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-28T16:29:37.384788200Z</date>
+  <millis>1669652977384</millis>
+  <nanos>788200</nanos>
+  <sequence>0</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>//</message>
+</record>
+<record>
+  <date>2022-11-28T16:29:40.406103300Z</date>
+  <millis>1669652980406</millis>
+  <nanos>103300</nanos>
+  <sequence>1</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6.0</message>
+</record>
+<record>
+  <date>2022-11-28T16:29:41.220549800Z</date>
+  <millis>1669652981220</millis>
+  <nanos>549800</nanos>
+  <sequence>2</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4.0</message>
+</record>
+<record>
+  <date>2022-11-28T16:29:41.224540900Z</date>
+  <millis>1669652981224</millis>
+  <nanos>540900</nanos>
+  <sequence>3</sequence>
+  <logger>Task</logger>
+  <level>INFO</level>
+  <class>Task</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6.0 // 4.0 = 1.0</message>
+</record>
+</log>
