@@ -74,7 +74,7 @@ public class Task1 {
             else {
                 result[destIndex++] = secondSorted[secondIndex++];
             }
-            // result[destIndex++] = firstSorted[index1] < secondSorted[index2] ? firstSorted[index1++] : secondSorted[index2++];
+            // result[destIndex++] = firstSorted[firstIndex] < secondSorted[secondIndex] ? firstSorted[firstIndex++] : secondSorted[secondIndex++];
             // короткая запись
         }
         while (firstIndex < middle) {
