@@ -16,3 +16,5 @@
 [ДЗ_3 задача 1](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_3/Task1.java)
 [задача 2](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_3/Task2.java)
 [задача 3](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_3/Task3.java)
+
+[Семинар 4](https://github.com/RumyancevaOlga/Java-Seminar-/tree/main/Seminar_4)
