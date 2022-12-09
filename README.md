@@ -22,3 +22,10 @@
 [ДЗ_4 задача 1](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_4/Task1.java)
 [задача 2](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_4/Task2.java)
 [задача 3](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_4/Task3.java)
+
+[Семинар 5](https://github.com/RumyancevaOlga/Java-Seminar-/tree/main/Seminar_5)
+
+[ДЗ_5 задача 1](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_5/Task1.java)
+[задача 2](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_5/Task2.java)
+[задача 3](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_5/Task3.java)
+[задача 4](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_5/Task4.java)
