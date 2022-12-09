@@ -2,11 +2,8 @@
 
 package Home_Work_5;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Random;
-import java.util.TreeMap;
 
 public class Task4 {
     public static void main(String[] args) {
@@ -14,6 +11,11 @@ public class Task4 {
         int[][] desk = new int [8][8];
       
         // ставим рандомно первого ферзя
+        // при расстановке первого рандомом есть шанс, что поле заполнится до установки последнего
+        // поэтому методом тыка нашли беспроигрышный вариант, и установили начальную позицию
+        // при желании можно тыкать рандом и найти еще позиции, для выполнения условия задачи
+        // или перебрать вручную
+        // при это программа не падает, а устанавливает значение последнего ферзя на позицию 7 7 даже если она будет бита другим ферзем или там уже стоит ферзь
         int letter = 3;
         int num = 2;
         // while(desk[letter][num] != 0) {
