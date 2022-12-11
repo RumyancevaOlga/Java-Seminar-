@@ -29,3 +29,8 @@
 [задача 2](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_5/Task2.java)
 [задача 3](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_5/Task3.java)
 [задача 4](https://github.com/RumyancevaOlga/Java-Seminar-/blob/main/Home_Work_5/Task4.java)
+
+[Семинар 6](https://github.com/RumyancevaOlga/Java-Seminar-/tree/main/Seminar_6)
+[задача про котиков](https://github.com/RumyancevaOlga/Java-Seminar-/tree/main/Cat)
+
+[ДЗ_6](https://github.com/RumyancevaOlga/Java-Seminar-/tree/main/Home_Work_6)
