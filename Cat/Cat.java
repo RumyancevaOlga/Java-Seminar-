@@ -42,7 +42,7 @@ public class Cat {
         return name;
     }
 
-    public void setAge(String name) {
+    public void setName(String name) {
         this.name = name;
     }
 
