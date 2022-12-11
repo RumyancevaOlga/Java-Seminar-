@@ -125,7 +125,7 @@ public class Main {
         return diagonal[x];
     }
     public static String screenType (int x) {
-        String[] screen = new String[] {"TN", "VA", "PS"};
+        String[] screen = new String[] {"TN", "VA", "IPS"};
         return screen[x];
     }
     public static int rum (int x) {
